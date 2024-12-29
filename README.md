@@ -110,13 +110,3 @@
   - Tag the bot as "Auto Bot."
     将机器人标记为“自动机器人”。
 - **Status / 状态**: Long-term goal / 长期目标。
-
-## 一些對抄襲仔的警告
-
-### **禁止抄袭声明 Anti-Plagiarism Notice**
-任何未经授权的代码抄袭、盗用或使用此开源代码的行为都将面临法律行动。
-
-### 任何未经授权的代码抄袭盗用 或使用此开源代码的行为都将面临法律行动
-- 行動方式如下
-  - [第36條](http://www.commonlii.org/my/legis/consol_act/ca1987133/s36.html)
-  - [第42條](https://www.myipo.gov.my/ms/copyright-act-1987/)
